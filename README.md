@@ -7,3 +7,7 @@ Analyzed the orientations of 185 cows in the image [feedlot_1.png](feedlot_1.png
 Can't really tell anything from the data actually. Still have no idea if cows point North more often. Really want to try to make a polar histogram in R next.
 
 The final histogram is [final_plot.png](final_plot.png).
+
+![feedlot_1.png](feedlot_1.png)
+
+![final_plot.png](final_plot.png)
